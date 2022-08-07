@@ -11,4 +11,4 @@ The data is a Kaggle dataset. You can get it from [here](https://www.kaggle.com/
 
 The first model, I used the k-Neighbors classifier algorithm and got an accuracy of around 62%.
 
-The second model, I applied the Min Max scaler to the data and used the SVC algorithm. This model has 91% accuracy and 89% recal.
+The second model, I applied the Min Max scaler to the data and used the SVC algorithm. This model has 91% accuracy and 89% recall.
